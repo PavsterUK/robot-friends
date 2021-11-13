@@ -1,7 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+<<<<<<< HEAD
 import App from './containers/App'
+=======
+import App from './App'
+>>>>>>> 66dd994 (add searchbox)
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
 
